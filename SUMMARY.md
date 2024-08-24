@@ -8,3 +8,4 @@
 * [莘应用](xin/README.md)
     * [自定义数据源](xin/source.md)
     * [应用内升级](xin/update.md)
+* [手表常见问题概览](problem/common.md)

@@ -3,6 +3,8 @@
 ## 注意
 必须先引导用户同意[Rare浏览器隐私政策](https://rare.genouka.rr.nu/privacy/)才可调用以下api。
 ## 1.访问网址
+以下代码支持调起所有Rare浏览器、RarePro浏览器版本。
+
 唤起Rare浏览器访问网页。
 
 示例代码(java)：
@@ -12,7 +14,9 @@ intent.setData(Uri.parse("https://rare.genouka.rr.nu/"));//传递网址
 startActivity(intent);//启动页面
 ```
 ## 2.搜索
-唤起Rare浏览器访问网页。
+以下代码支持调起所有Rare浏览器、RarePro浏览器版本。
+
+唤起Rare浏览器搜索关键词。
 
 示例代码(java)：
 ```java
