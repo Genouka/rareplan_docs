@@ -1,4 +1,4 @@
-# 浏览网页
+# 浏览网页和搜索功能
 记得先引导用户安装Rare浏览器。
 ## 注意
 必须先引导用户同意[Rare浏览器隐私政策](https://rare.genouka.rr.nu/privacy/)才可调用以下api。
