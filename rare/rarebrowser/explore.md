@@ -1,7 +1,7 @@
 # 浏览网页和搜索功能
 记得先引导用户安装Rare浏览器。
 ## 注意
-必须先引导用户同意[Rare浏览器隐私政策](https://rare.genouka.rr.nu/privacy/)才可调用以下api。
+必须先引导用户同意[Rare浏览器隐私政策](https://rare.genouka.top/privacy/)才可调用以下api。
 ## 1.访问网址
 Rare浏览器和RarePro浏览器的调用方式均符合Android规范，因此只需使用Android常规方式打开即可。
 
