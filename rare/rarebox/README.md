@@ -8,6 +8,6 @@
 请引导用户前往[Rare计划官网](https://rare.genouka.rr.nu/)下载最新版本。
 
 # API
-[install.md](安装应用)
+[安装应用](install.md)
 
-[install.md](调用命令行(接口不稳定,慎用))
+[调用命令行(接口不稳定,慎用)](cmd.md)
