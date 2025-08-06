@@ -1,4 +1,4 @@
-//GenOuka保留所有版权
+// Copyright 2025 GenOuka
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
