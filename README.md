@@ -23,6 +23,7 @@
     * [自定义数据源](rare/xin/source.md)
     * [应用内升级](rare/xin/update.md)
 * [手表常见问题概览（用户指南）](problem/common.md)
+* [RareBox用户手册及常见问题](problem/rarebox.md)
 
 ## 贡献
 我计划将这个网站作为手表知识库平台，任何手表相关的文档（任何都可以，欢迎你署名！）欢迎贡献到这个开放平台网站（直接向储存库提交你撰写好的markdown文档的pr就行）
