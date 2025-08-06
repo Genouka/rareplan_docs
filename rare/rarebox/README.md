@@ -7,6 +7,9 @@
 
 请引导用户前往[Rare计划官网](https://rare.genouka.rr.nu/)下载最新版本。
 
+# 用户指南
+如果你不是开发者，你可能在找：[用户手册及常见问题](/problem/rarebox.md)
+
 # API
 [安装应用](install.md)
 
