@@ -43,7 +43,7 @@ public class RareBoxInstaller {
                 // 显示未安装RareBox的警告对话框
                 new AlertDialog.Builder(activity)
                     .setTitle("警告")
-                    .setMessage("您的手表未安装RareBox，请前往Rare计划官网获得软件：rare.genouka.rr.nu")
+                    .setMessage("您的手表未安装RareBox，请前往Rare计划官网获得软件：rare.genouka.top")
                     .setPositiveButton("确定", null)
                     .create()
                     .show();
