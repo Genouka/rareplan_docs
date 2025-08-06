@@ -16,11 +16,15 @@ Bilibili: GenOuka 原创
 ## 3.Shizuku可以独立使用吗？
 用手机或手表激活后可以，重启后需重新激活。
 
-目前支持在手表上直接激活（不需要手机、电脑）的可能只有WearOS3/4设备了，还需要使用特制版本Shizuku。
+WearOS3/4设备：部分设备目前支持在手表上直接激活（不需要手机、电脑）。三星的新系统上Shizuku貌似会玄学般弹不出通知消息。
+
+WearOS2设备：用RareBox运行shell命令可以辅助激活。
 
 ## 4.手表上能用的浏览器？
-* Rare浏览器（支持WearOS，内核：Chromium56(1.2版本起支持)、WebView(3.0版本起可切换)、文本核心(内部版本可切换)和Chromium99(3.0版本起可切换)，低配手表使用流畅，高配手表还能用网页云游戏打云原神）
+* [Rare浏览器/RarePro浏览器](https://github.com/Genouka/rarebrowser)（支持WearOS，目前最新版本Alpha-4.0效果很好，推荐）
 * 三星浏览器（支持WearOS，内核：Chromium106，非三星手表使用极度卡顿）
 * 我爱浏览器（不支持WearOS，内核：WebView）
+
+没有适配手表的浏览器：
 * Chrome (支持WearOS，没有手表适配，略卡)
 * 夸克浏览器 (支持WearOS，没有手表适配，极度卡顿，部分界面闪退)
